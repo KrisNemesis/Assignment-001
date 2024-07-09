@@ -1,0 +1,176 @@
+.azeret-mono-normal {
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+    font-style: normal;
+  }
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 150px;
+    margin-top: 50px;
+
+}
+.nav-title{
+    font-size: 28px;
+font-weight: 800;
+}
+
+.nav-button{
+    
+    box-sizing: border-box;
+    border-radius: 8px;
+    opacity: 0.8;
+    margin-top: 38px;
+    margin-right: 166px;
+    width: 228px;
+    height: 58px;   
+}
+.header-main{
+    border: 2px solid red;
+    max-width: 1440px;
+    height: 652px;
+    margin: 0 auto;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url(/assets/Hero-bg.png);
+
+}
+.header-pic{
+    width: 240.28px;
+    height: 220px;
+}
+.header-title{
+    color: rgb(13, 19, 33);
+    font-size: 48px;
+    font-weight: 800;
+    margin-left: 221px;
+    margin-right: 221px;
+    margin-top: 32px;
+    text-align: center;
+
+}
+.header-description{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+}
+.contact-btn{
+    border-radius: 8px;
+    background-color: black;
+    color: white;
+    width: 208px;
+    height: 66px;
+    margin-top: 40px;
+}
+.why-dev{
+    
+    width: 946px;
+    height: 1235px;
+    margin: 0 auto;
+    margin-top: 70px;
+    margin-bottom: 100px;
+}
+.why-dev-text{
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+    margin-left: 270px;
+
+}
+.why-dev-description{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: 47px;
+    text-align: center;
+
+}
+.details1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.sub-details1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 96px;
+   
+
+}
+.left-details1-title{
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 700;
+
+}
+.left-details1-describe{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 20px;
+
+}
+.right-details1-pic{
+    width: 259.56px;
+    height: 217.01px;
+
+}
+.learn-more-btn{
+    box-sizing: border-box;
+    border: 1px solid rgb(13, 19, 33);
+    opacity: 0.7;
+    width: 150px;
+    height: 48px;
+    margin-top: 20px;
+
+}
+.sub-details2{
+    display: flex;
+    margin-top: 147px;
+}
+.right-details2{
+    margin-left: 50px;
+}
+.left-details2-title{
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 700;
+
+}
+.left-details2-pic{
+    width: 240px;
+    height: 240px;
+}
+.right-details3-pic{
+    width: 240px;
+height: 240px;
+}
+.inpiration{
+    border: 2px solid red;
+    width: 1140px;
+    height: 777px;
+    margin: 0 auto;
+
+}
+.my-inspire-text{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    padding-left: 430px;
+    margin-bottom: 30px;
+}
+.iframe-video{
+    margin-left: 80px;
+    margin-top: 30px;
+}
