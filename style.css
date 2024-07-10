@@ -33,6 +33,7 @@ margin-top: 50px;
 }
 .header-main{
     height: 652px;
+    
     margin: 0 auto;
     margin-top: 50px;
     display: flex;
@@ -40,6 +41,7 @@ margin-top: 50px;
     align-items: center;
     justify-content: center;
     background-image: url(Hero-bg.png);
+    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     
